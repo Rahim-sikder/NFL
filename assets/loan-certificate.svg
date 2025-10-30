@@ -1,0 +1,32 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f8f9fa" stroke="#e9ecef" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="400" height="60" fill="#dc2626"/>
+  <text x="200" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">LOAN TAX CERTIFICATE</text>
+  
+  <!-- Logo/Icon Area -->
+  <rect x="55" y="95" width="50" height="30" fill="#ef4444" stroke="#dc2626" stroke-width="2" rx="4"/>
+  <text x="80" y="115" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">LOAN</text>
+  
+  <!-- Certificate Content -->
+  <text x="120" y="100" fill="#374151" font-family="Arial, sans-serif" font-size="14" font-weight="bold">National Finance Limited</text>
+  <text x="120" y="120" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Loan Account Tax Certificate</text>
+  <text x="120" y="140" fill="#6b7280" font-family="Arial, sans-serif" font-size="12">Tax Year: 2024</text>
+  
+  <!-- Loan Details -->
+  <rect x="30" y="160" width="340" height="80" fill="white" stroke="#e5e7eb" stroke-width="1" rx="4"/>
+  <text x="50" y="180" fill="#374151" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Loan Details:</text>
+  <text x="50" y="200" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Loan Type: Personal Loan</text>
+  <text x="50" y="215" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Interest Paid: BDT 45,000</text>
+  <text x="50" y="230" fill="#6b7280" font-family="Arial, sans-serif" font-size="11">Tax Benefit: BDT 4,500</text>
+  
+  <!-- Footer -->
+  <text x="200" y="270" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="10">This is an official tax certificate for loan accounts</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="350" cy="120" r="15" fill="#f59e0b" opacity="0.2"/>
+  <circle cx="360" cy="110" r="10" fill="#d97706" opacity="0.3"/>
+  <circle cx="340" cy="105" r="8" fill="#b45309" opacity="0.4"/>
+</svg>
