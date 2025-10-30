@@ -105,6 +105,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#0267b5',
     justifyContent: 'center',
     alignItems: 'center',
+    
   },
   logoContainer: {
     alignItems: 'center',

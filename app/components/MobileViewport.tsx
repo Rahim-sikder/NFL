@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 20,
+    // padding: 20,
   },
   phoneFrame: {
     width: '100%',
@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     flex: 1,
     // backgroundColor: '#2c2c2c',
     // borderRadius: 35,
-    padding: 8,
+    // padding: 8,
     // shadowColor: '#000',
     // shadowOffset: {
     //   width: 0,
